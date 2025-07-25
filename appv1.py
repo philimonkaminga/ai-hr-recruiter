@@ -238,7 +238,7 @@ class GPTEvaluator:
                         "content": prompt
                     }
                 ],
-                temperature=0.1,
+                temperature=0.0,
                 max_tokens=1000
             )
             
