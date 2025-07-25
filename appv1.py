@@ -298,7 +298,7 @@ def main():
     col1, col2, col3 = st.columns([1, 2, 1])
     with col2:
         # Logo placeholder - replace with your actual logo
-        st.image("logo/image.png",)
+        st.image("image.png",)
     
     # Header
     st.title(":blue[ZRA-AI RECRUITMENT AUTOMATION]", width="content")
