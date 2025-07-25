@@ -192,7 +192,7 @@ You must respond with a valid JSON object in exactly this format:
     "qualifies": "Yes" or "No",
     "reason": "Provide a clear explanation of why the candidate does or does not qualify. Include specific information about: 1) Graduation/certification date found (if any), 2) Post-qualifying experience calculated in years, 3) Whether minimum experience requirement is met, 4) Educational qualification assessment, 5) Skills match assessment, 6) Overall recommendation based on the specific job requirements.",
     "graduation_date_found": "Date found in documents or 'Not speficied",
-    "post_qualifying_experience_years": "Number of years calculated in years and months or 'Unable to calculate'",
+    "post_qualifying_experience_years": "Number of years calculated in years or 'Unable to calculate'",
     "minimum_experience_required": "Years required as stated in job description or 'Not specified'",
     "education_requirement_met": "Yes/No - based on degree requirements in job section",
     "key_requirements_from_job": "List 3-5 key requirements found in the job section"
